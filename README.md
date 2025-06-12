@@ -46,19 +46,19 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-kumar96&show_icons=true&theme=radical" alt="Jeetendra's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeetendra-jeet&show_icons=true&theme=radical" alt="Jeetendra's GitHub stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-kumar96&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeetendra-jeet&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aditya-kumar96&theme=react-dark&bg_color=1c1917&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jeetendra-jeet&theme=react-dark&bg_color=1c1917&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-kumar96&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetendra-jeet&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
